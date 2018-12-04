@@ -9,3 +9,5 @@ This software is covered by the 3-clause BSD license.
 
 ## MATHEMATICAL APPROACH
 ![3djet_principle](https://user-images.githubusercontent.com/16148023/49442297-5ddc3580-f7c9-11e8-869e-7430191ecbb3.png)
+
+To be continued ...
